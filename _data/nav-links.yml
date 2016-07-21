@@ -4,8 +4,8 @@
   url: /issues/
 - title: Services
   url: /services/
-- title: News
-  url: /blog/index.html
+#- title: News
+#  url: /blog/index.html
 - title: Events
   url: /events/
 - title: Resources

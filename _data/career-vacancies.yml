@@ -1,30 +1,35 @@
-- title: A Vacancy Title
+- title: Developers
   description:
-      Autem dolor qui laborum laboriosam. Est et alias eos. Non hic aut quasi sit voluptatem. Ipsam blanditiis laudantium rerum vel et. Qui sunt molestiae temporibus adipisci. Placeat similique nam laudantium atque eos.
-  salary: $100,000 # optional
+      You can contribute to improvement code of our mobile applications and our code history section.
+  salary: $0,000 # optional
   essential-criteria: # optional
-    - Adipisci repellat et non ea dolore aperiam. Qui fuga est laboriosam in. Voluptatem a ad rerum omnis quia. Et voluptatem et voluptas ut et itaque.
-    - Enim exercitationem id illum ab provident est laborum accusamus. Voluptatem a occaecati ut quasi laudantium et quia. Ipsa illo et eum molestiae. Qui dolor magni sequi eos ut ut.
-    - Porro rerum quia nesciunt quo tempora molestiae laboriosam quasi. Qui sint mollitia voluptatibus commodi quod ut tempore.
-    - Esse aut quis saepe mollitia mollitia id distinctio eius. Eaque quisquam ad deleniti rerum vero nemo. Dolorum enim quos perspiciatis assumenda.
+    - Github account
+    - Apache cordova
+    - AngularJS
   desirable-criteria: # optional
-    - Perferendis natus omnis vel. Expedita et itaque velit quia necessitatibus ea dignissimos veniam. Iusto exercitationem quae quasi in aliquid eveniet veritatis ut.
-    - Quisquam harum non consequatur qui.
-    - Tempora cumque voluptatem dolores nihil aspernatur asperiores.
-  closing-date: 2016-06-30
-- title: Another Vacancy Title
+    - HTML5
+    - CSS3
+    - Joel test score: 12
+  closing-date: 2031-12-31
+- title: Graphic designers
   description:
-      Autem dolor qui laborum laboriosam. Est et alias eos. Non hic aut quasi sit voluptatem. Ipsam blanditiis laudantium rerum vel et. Qui sunt molestiae temporibus adipisci. Placeat similique nam laudantium atque eos.
-
-      Pariatur veritatis et itaque. Rem consequatur omnis officia eum. Nesciunt quibusdam et qui ipsum in a modi iure.
-  salary: # optional
+      You can contribute to create logo, images and design of pandle websites.
+  salary: $0,000 # optional
   essential-criteria: # optional
-    - Adipisci repellat et non ea dolore aperiam. Qui fuga est laboriosam in. Voluptatem a ad rerum omnis quia. Et voluptatem et voluptas ut et itaque.
-    - Enim exercitationem id illum ab provident est laborum accusamus. Voluptatem a occaecati ut quasi laudantium et quia. Ipsa illo et eum molestiae. Qui dolor magni sequi eos ut ut.
-    - Porro rerum quia nesciunt quo tempora molestiae laboriosam quasi. Qui sint mollitia voluptatibus commodi quod ut tempore.
-    - Esse aut quis saepe mollitia mollitia id distinctio eius. Eaque quisquam ad deleniti rerum vero nemo. Dolorum enim quos perspiciatis assumenda.
+    - Github account
+    - The logo will be our chameleon
+    - The design of pandle websites will be develop on Jekyll themes
   desirable-criteria: # optional
-    - Perferendis natus omnis vel. Expedita et itaque velit quia necessitatibus ea dignissimos veniam. Iusto exercitationem quae quasi in aliquid eveniet veritatis ut.
-    - Quisquam harum non consequatur qui.
-    - Tempora cumque voluptatem dolores nihil aspernatur asperiores.
-  closing-date: 2016-06-30
+    - HTML5
+    - CSS3
+    - Joel test score: 12
+  closing-date: 2031-12-31
+- title: Animators
+  description:
+      You can contribute to create animated gif or small video of our chameleon for education.
+  salary: $0,000 # optional
+  essential-criteria: # optional
+    - Github account
+  desirable-criteria: # optional
+    - Joel test score: 12
+  closing-date: 2031-12-31
