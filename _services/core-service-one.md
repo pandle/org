@@ -1,14 +1,12 @@
 ---
 layout: service
-title: Service One
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+title: Ad hoc applications
+description: "Do you need an application ad hoc for communicate or for educational goals?"
 related: # Add the title of related services here and they will appear at the bottom of the page
-  - Service Two
-  - Service Three
-  - Service Five
+  - Fund raising
+  - Disables
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit.
+Have you ever tried an ad hoc application for disables? Have you ever seen the prices? It's sad to profit on the diseases or disability. 
+We'd like to help who has educational goals with disables. It's important to contribute to scientific research for genetic diseases or others disability.. but now who helps disables to grow?
 
-Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem. Ut turpis felis, pulvinar a semper sed, adipiscing id dolor.
-
-Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.
+Do you need an application ad hoc for communicate or for educational goals? Contact us and we are happy to help you with our knowledge.
