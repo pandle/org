@@ -1,14 +1,12 @@
 ---
 layout: issue
-title: Issue One
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+title: Disables
+description: "Organizations for disables are often without resources, why not can we help them?"
 related: # Add the title of related issues here and they will appear at the bottom of the page
-  - Issue Two
-  - Issue Three
-  - Issue Five
+  - Ad hoc applications
+  - Donations
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit.
+We have two ways to help organizations for disables: create ad hoc applications for their goals or contribute with donations.
 
-Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem. Ut turpis felis, pulvinar a semper sed, adipiscing id dolor.
-
-Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.
+In the first time we can contribute with the creation ad hoc applications.
+When we will grow we can contribute with donations.
