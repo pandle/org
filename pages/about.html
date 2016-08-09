@@ -7,6 +7,21 @@ permalink: /about/
 ---
 <!-- About page introduction -->
 <p class="post-content collection-content">{{ page.introduction }}</p>
+<!-- Additional links -->
+<div class="grid-container">
+  <div class="member-container one-half col">
+    <a href="{{ '/resources' | prepend: site.baseurl }}" title="{{ site.title | prepend: 'Careers at '}}" class="resources-link">
+      <h2>Resources</h2>
+      <p>See our statue and our contributes</p>
+    </a>
+  </div>
+  <div class="member-container one-half col">
+    <a href="{{ site.baseurlinfo }}/about" title="{{ site.title | prepend: 'Information details of '}}" class="details-link">
+      <h2>Information details</h2>
+      <p>{{ site.title | prepend: 'See all details of ' }}</p>
+    </a>
+  </div>
+</div><!-- End additional link -->
 <!-- End about page introduction -->
 <!-- Team members -->
 {% if site.data.team-members.size > 0 %}
@@ -66,19 +81,21 @@ permalink: /about/
 <!-- Contact form -->
 <section id="contact">
     <h2>{{ site.title | prepend: 'Contact ' }}</h2>
-    <form action="//formspree.io/{{ site.email }}"
-    method="POST" class="formspree">
-      <input type="text" placeholder="your name" class="name" rows="1" required />
-
-      <input type="email" name="email" placeholder="your email" maxlength="36" pattern="[a-zA-Z0-9_\.\+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-\.]+" class="email" required />
-
-      <textarea name="message" placeholder="your message" rows="3" class="message"></textarea>
-      <input type="hidden" name="_subject" value="Source: {{ site.baseurl | prepend: site.url }} contact form submission" />
-      <button type="submit" class="send">ok, send it</button>
-
-      <input type="text" name="_gotcha" style="display:none" />
-      <input type="hidden" name="_next" value="/" />
-    </form>
+    <!-- Additional links -->
+    <div class="grid-container">
+      <div class="member-container one-half col">
+	<a href="{{ site.baseurlinfo }}/suggestion" title="{{ site.title | prepend: 'Suggestion for '}}" class="request-for-information-link">
+	  <h2>Suggestions</h2>
+	  <p>Do you have any suggestions?</p>
+	</a>
+      </div>
+      <div class="member-container one-half col">
+	<a href="{{ site.baseurlinfo }}/request" title="{{ site.title | prepend: 'Require information on '}}" class="request-for-information-link">
+	  <h2>Request for information</h2>
+	  <p>Do you have any questions?</p>
+	</a>
+      </div>
+    </div><!-- End additional link -->
   </section><!-- End form -->
 {% endif %}
 
