@@ -10,6 +10,7 @@ title: pandle
 description: Playing AND LEarning - non profits organization
 baseurl: "/org" # the subpath of your site, e.g. /blog
 url: "https://pandle.github.io" # the base hostname & protocol for your site
+urlinfo: "http://www.pandle.info" # the base hostname & protocol for your site
 
 # Profiles
 #facebook_username: randomexample
